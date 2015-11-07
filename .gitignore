@@ -30,4 +30,4 @@ node_modules
 .idea
 
 # Creditentials
-creditentials.js
+config.json
