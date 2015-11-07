@@ -8,6 +8,6 @@
   },
   "license": "SEE LICENSE IN LICENSE IN ROOT DIRECTORY",
   "devDependencies": {
-    "mediawiki": "0.0.14"
+    "nodemw": "^0.7.5"
   }
 }
